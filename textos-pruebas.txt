@@ -1,0 +1,42 @@
+-------------------------------------------------Texto 1-----------------------------------------------------------
+What is Lorem Ipsum?
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Why do we use it?
+
+Where does it come from?
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+help@lipsum.com
+
+Tomado de: https://www.lipsum.com/
+
+--------------------------------------------------Texto 2-----------------------------------------------------------
+¿Qué es una dirección IP?
+
+Una dirección IP es un conjunto de números, únicos e irrepetibles, que identifica a un dispositivo con la capacidad de conectarse a internet, ya sea una computadora, tableta, celular, o incluso dispositivos inteligentes preparados para IoT (Internet de las cosas).
+
+Dirección IP Privada
+Este es el conjunto de números que se asignan a cada equipo que se encuentre conectado a una red privada. Por ejemplo, la dirección IP se genera al conectar tu celular, tableta o computadora a la red de wifi de tu hogar. Por otro lado, las direcciones IP privadas se encuentran clasificadas en 3 rangos de conjuntos numéricos. Estas son las siguientes:
+
+Clase A: De 10.0.0.0 a 10.255.255.255. Esta es generalmente usada para grandes redes, como la de alguna empresa trasnacional;
+Clase B: De 172.16.0.0 a 172.31.255.255. Destinada a redes medianas, como por ejemplo la de una empresa local o una escuela;
+Clase C: De 192.168.0.0 a 192.168.255.255. Corresponde a redes más pequeñas, como redes del hogar.
+
+Dirección IP Pública
+Estas son visibles para cualquier persona que navegue en Internet y sirven para identificar usuarios en la gran red. Está destinada a los servidores que funcionan las 24 horas del día y es posible contratar tantas como se necesiten. Son un número que identifica a un dispositivo dentro de una red y un punto de enlace con Internet.
+
+Tomado de: https://www.hostgator.mx/blog/que-es-una-direccion-ip/
+
+--------------------------------------------------Texto 3-----------------------------------------------------------
+Código postal mexicano
+
+El Código Postal Mexicano consta de cinco dígitos. Los dos primeros identifican el estado o parte del mismo. Para el caso de la Ciudad de México, los dos primeros dígitos representan sus respectivas alcaldías por orden alfabético. Actualmente el inicio de código 00 no se encuentra en uso. Por ejemplo, Valladolid utiliza varios, entre ellos: 97780, 97782, etc.
+
+Los códigos postales de este país son propiedad del Gobierno de México y administrados por el organismo público descentralizado Correos de México, los cuales, se pueden descargar gratuitamente desde su sitio web oficial o podrías pedir mas información marcando:
+Teléfono de Sepomex: (55)57297600
+Para atención al ciudadano: 018007017000
+Horario de atención: 8:00 AM - 3:00 PM
+contacto@correosdemexico.gob.mx
+
+Tomado de: https://correosdemexicorastreo.com.mx/telefonos-horarios-y-sucursales/
